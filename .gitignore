@@ -1,0 +1,10 @@
+.idea
+.vscode
+myteams_cli
+myteams_server
+*vgcore
+vgcore*
+*.o
+server_log.txt
+notes
+*.txt
